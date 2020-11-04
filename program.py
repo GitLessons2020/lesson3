@@ -12,3 +12,7 @@ def v2():
 @app.route('/v3')
 def v3():
     return 'Third action'
+
+@app.route('/v4')
+def v3():
+    return 'Fourth action'
