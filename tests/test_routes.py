@@ -11,7 +11,7 @@ def test_v2(app, client):
     assert res.status_code == 200
     assert res.data == b"Second action"
 
-    def test_Sivashova(app, client):
+def test_Sivashova(app, client):
     res = client.get('/Sivashova')
     assert res.status_code == 200
     assert res.data == b"Sivashova_Lyudmila INBO_01_17"
