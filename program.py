@@ -14,5 +14,5 @@ def v3():
     return 'Third action'
 
 @app.route('/v4')
-def v3():
+def v4():
     return 'Fourth action!'
