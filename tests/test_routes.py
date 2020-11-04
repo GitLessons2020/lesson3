@@ -14,4 +14,4 @@ def test_v2(app, client):
 def test_alekseev(app, client):
     res = client.get('/alekseev')
     assert res.status_code == 200
-    assert res.data == b"Alekseev"
+    assert res.data == b"Alekseev Andrey INBO-01-17"
