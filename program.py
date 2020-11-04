@@ -10,5 +10,5 @@ def v2():
     return 'Second action'
 
 @app.route('/Sivashova')
-def v2():
+def Sivashova():
     return 'Sivashova_Lyudmila_INBO_01_17'
