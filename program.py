@@ -10,5 +10,5 @@ def v2():
     return 'Second action'
 
 @app.route('/alekseev')
-def v2():
+def alekseev():
     return 'Alekseev Andrey INBO-01-17'
