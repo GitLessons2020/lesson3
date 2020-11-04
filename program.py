@@ -8,3 +8,7 @@ def hello_world():
 @app.route('/v2')
 def v2():
     return 'Second action'
+
+@app.route('/Sivashova')
+def Sivashova():
+    return 'Sivashova_Lyudmila INBO_01_17'
