@@ -15,4 +15,4 @@ def v3():
 
 @app.route('/v4')
 def v3():
-    return 'Fourth action'
+    return 'Fourth action!'
