@@ -1,6 +1,6 @@
 Базовый репозиторий для четвертой лекции
 
-![Python application](https://github.com/GitLessons2020/lesson4/workflows/Python%20application/badge.svg?branch=main)
+![Python application](https://github.com/KretOFF/lesson4/workflows/Python%20application/badge.svg)
 
 Проверить, что python работает
 
