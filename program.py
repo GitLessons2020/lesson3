@@ -8,3 +8,7 @@ def hello_world():
 @app.route('/v2')
 def v2():
     return 'Second action'
+
+@app.route('/KretOFF')
+def KretOFF():
+    return 'Valery Kretov complete lesson 4'
