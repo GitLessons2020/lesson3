@@ -11,4 +11,5 @@ def v2():
 
 @app.route('/edmanuk')
 def edmanuk():
-    return 'Manukyan'
+    return 'Manukyan Edgar'
+
