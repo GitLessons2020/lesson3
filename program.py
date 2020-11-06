@@ -10,5 +10,5 @@ def v2():
     return 'Second action'
 
 @app.route('/trm')
-def hello_world():
+def trm():
     return 'TRM action!'
