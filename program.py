@@ -11,5 +11,5 @@ def v2():
 
 @app.route('/bogy4')
 def bogy4():
-    return 'i return something'
+    return 'wrong string'
 
