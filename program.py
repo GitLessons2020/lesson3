@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/IF0XI')
 def IF0XI():
-    return 'Poleshchuk E.S.'
+    return 'Poleshchuk Egor S.'
