@@ -18,6 +18,6 @@ def v2():
 
 @app.route('/de4d10ck')
 def nguen_victor():
-    length = 10
-    return ''.join(random.choice(string.ascii_letters) for i in range(10))
+    length = 35
+    return ''.join(random.choice(string.ascii_letters) for i in range(length))
 
