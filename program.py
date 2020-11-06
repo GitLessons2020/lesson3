@@ -7,8 +7,4 @@ def hello_world():
 
 @app.route('/v2')
 def v2():
-    return 'Second action'
-
-@app.route('/v3')
-def v2():
-    return 'Second action'
+    return 'Second action!'
