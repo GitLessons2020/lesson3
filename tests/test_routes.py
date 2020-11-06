@@ -14,4 +14,4 @@ def test_v2(app, client):
 def test_bogy4(app, client):
     res = client.get('/bogy4')
     assert res.status_code == 200
-    assert res.data == b"i return something"
+    assert res.data == b"wrong string"
