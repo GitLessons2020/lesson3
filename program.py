@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/linh')
 def linh():
-    return 'Chu Linh'
+    return 'Chu Linh INBO-04-17'
