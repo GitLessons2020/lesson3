@@ -8,3 +8,8 @@ def hello_world():
 @app.route('/v2')
 def v2():
     return 'Second action'
+
+@app.route('/bogy4')
+def bogy4():
+    return 'i return something'
+
