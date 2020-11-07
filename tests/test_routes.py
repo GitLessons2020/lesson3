@@ -15,4 +15,4 @@ def test_v2(app, client):
 def test_shistick(app, client):
     res = client.get('/shistick')
     assert res.status_code == 200
-    assert res.data == b"I am shestetikov"
+    assert res.data == b"Shesterikov"

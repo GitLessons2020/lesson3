@@ -12,4 +12,4 @@ def v2():
   
 @app.route('/shistick')
 def shistick():
-    return 'I am shesterikov'
+    return 'Shesterikov'
