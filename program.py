@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/Drozhzhin')
 def VegetableX():
-    return 'Drozhzhin A.V. added text'
+    return 'Drozhzhin A.V.'
