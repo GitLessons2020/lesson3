@@ -7,4 +7,4 @@ def hello_world():
 
 @app.route('/v2')
 def v2():
-    return 'Cat7 action'
+    return 'Second action'
