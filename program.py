@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/bek')
 def bek():
-    return 'Hello'
+    return 'Hello world!'
