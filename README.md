@@ -43,5 +43,5 @@ $env:FLASK_APP="program.py"
 flask run
 ```
 
- 
+  
 > Выйти из виртуального окружения - `deactivate`
