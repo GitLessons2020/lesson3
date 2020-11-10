@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/Astakhov')
 def Astakhov():
-    return 'Astakhov K INBO-01-17'
+    return 'Astakhov K.A. INBO-01-17'
