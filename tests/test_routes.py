@@ -14,4 +14,4 @@ def test_v2(app, client):
 def test_v3(app, client):
     res = client.get('/v3')
     assert res.status_code == 200
-    assert res.data == b"Leon from INBO-04-17"
+    assert res.data == b"Leon from INBO-01-17"
