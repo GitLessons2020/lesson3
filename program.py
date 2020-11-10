@@ -8,3 +8,7 @@ def hello_world():
 @app.route('/v2')
 def v2():
     return 'Second action'
+
+@app.route('/Astakhov')
+def Astakhov():
+    return 'Astakhov K.A. INBO-01-17'
