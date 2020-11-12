@@ -10,3 +10,9 @@ def test_v2(app, client):
     res = client.get('/v2')
     assert res.status_code == 200
     assert res.data == b"Second action"
+
+
+def test_user937(app, client):
+    res = client.get('/937')
+    assert res.status_code == 200
+    assert res.data == b"Matvey from INBO-04-17"
