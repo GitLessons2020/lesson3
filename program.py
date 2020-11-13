@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/migunov')
 def migunov():
-    return 'MigunoFF'
+    return 'Migunov MN'
