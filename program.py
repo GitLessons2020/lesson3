@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/v3')
 def v3():
-    return 'Yudin'
+    return 'Yudin INBO-04-17'
