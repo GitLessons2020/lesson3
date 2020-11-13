@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/v7')
 def v7():
-    return 'Brichev T.U.'
+    return 'Brichev T.U. INBO-01-17'
