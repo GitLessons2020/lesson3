@@ -10,5 +10,5 @@ def v2():
     return 'Second action'
 
 @app.route('/migunov')
-def migunoff
+def migunov
     return 'MigunoFF'
