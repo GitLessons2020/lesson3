@@ -3,8 +3,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Base action'
+    return 'Action number 1'
 
 @app.route('/v2')
 def v2():
-    return 'Second action'
+    return 'Action number 2'
