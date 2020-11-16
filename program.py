@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/KarruNnn')
 def KarruNnn():
-    return 'Добрусь Кирилл выполнил работу'
+    return 'Dobrus Kirill task complete'

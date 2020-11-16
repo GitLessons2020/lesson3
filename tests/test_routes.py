@@ -14,4 +14,4 @@ def test_v2(app, client):
 def test_KarruNnn(app, client):
     res = client.get('/KarruNnn')
     assert res.status_code == 200
-    assert res.data == b"Добрусь Кирилл выполнил работу"
+    assert res.data == b"Dobrus Kirill task complete"
