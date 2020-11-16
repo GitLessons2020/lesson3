@@ -9,6 +9,6 @@ def hello_world():
 def v2():
     return 'Second action'
 
-@app.route('/v3')
+@app.route('/KarruNnn')
 def KarruNnn():
     return 'Добрусь Кирилл выполнил работу'

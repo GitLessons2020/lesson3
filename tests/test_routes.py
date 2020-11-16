@@ -11,7 +11,7 @@ def test_v2(app, client):
     assert res.status_code == 200
     assert res.data == b"Second action"
 
-def test_v3(app, client):
-    res = client.get('/v3')
+def test_KarruNnn(app, client):
+    res = client.get('/KarruNnn')
     assert res.status_code == 200
     assert res.data == b"Добрусь Кирилл выполнил работу"
