@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/doktor2')
 def v2():
-    return 'This is '
+    return 'This is Mikailov'
