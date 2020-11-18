@@ -11,6 +11,6 @@ def v2():
 
 @app.route('/belov')
 def belov():
-    return 'Anothe action'
+    return 'Another action'
 
     
