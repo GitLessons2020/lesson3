@@ -14,4 +14,4 @@ def test_v2(app, client):
 def test_volegov(app, client):
     res = client.get('/volegov')
     assert res.status_code.code == 200
-    assert res.data == b"hello there.."
+    assert res.data == b"Page of Anton Volegov"
