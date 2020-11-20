@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/amir')
 def amir():
-    return 'Amir'
+    return 'Amir INBO'
